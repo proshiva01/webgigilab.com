@@ -207,7 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const value = (id) => document.getElementById(id)?.value.trim() || "";
 
     const message = [
-      "Hello YuviTech, I would like a free consultation.",
+      "Hello Webdigilab, I would like a free consultation.",
       "",
       `Name: ${value("name")}`,
       `Phone: ${value("phone")}`,
